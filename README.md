@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Daniel Menna
-- 👀 I’m a Data Analyst, interested in improving my knowledge in Data Science.
-- 📫 Let's keep in contact: danielribeiromenna@gmail.com
-- 😄 Pronouns: He/Him
+Olá, sou o Daniel Menna - Analista de Dados 👋
+🔭 Atualmente trabalhando como Gerente de Projetos
+✈ Em transição para a área de Análise de Dados
+🎓 Graduado em Engenharia de Produção e especialização em Gestão de Negócios e Tecnologia da Informação.
+📚 Conhecimentos sólidos em SQL, Excel, Power BI e Python
+🎯 Certificado como Analista de Dados pela Data Camp
+😄 Pronomes: ele/dele
 
-<!---
-daniel-menna/daniel-menna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DRV-SQL DRV-Excel DRV-PBI DRV-Python DRV-JPNB
+   
