@@ -5,4 +5,4 @@
 
 - I have several experience with Data Modeling, Architecture and I'm improving my skills as Data Engineer.
 
-- 👨‍💻 All of my experiences are available at [https://www.linkedin.com/in/daniel-menna](https://www,linkedin.com/in/daniel-menna)
+- 👨‍💻 All of my experiences are available at [https://www.linkedin.com/in/danielrmenna](https://www,linkedin.com/in/danielrmenna)
