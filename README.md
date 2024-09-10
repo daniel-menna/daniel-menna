@@ -8,4 +8,4 @@
 - 👨‍💻 All of my experiences are available at [https://www.linkedin.com/in/daniel-menna](https://www.linkedin.com/in/daniel-menna)
 
 
-[![daniel's GitHub | Stats](https://stats.quira.sh/daniel-menna/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=daniel-menna)
+[![Daniel's GitHub | Stats](https://stats.quira.sh/daniel-menna/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=daniel-menna)
