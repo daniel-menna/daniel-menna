@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Menna</h1>
 <h3 align="center">An entusiast of Data & Analytics.</h3>
 
-- 🔭 I’m currently working on **Waren Investimentos as a Sr. Data & Engineer.** and **Thoughtworks** alumni.
+- 🔭 I’m currently working on **Warren Investimentos as a Sr. Data & Engineer.** and **Thoughtworks** alumni.
 
 - I have experience in data modeling, architecture, and data operations.
 
